@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LoginForm {
     public static boolean authenticate(String username, String password) {
         // Dummy authentication logic
-        return username.equals("user") && password.equals("pass");
+        return username.equals("shubham916") && password.equals("12345");
     }
 
     public static void main(String[] args) {
